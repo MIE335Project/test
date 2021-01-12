@@ -1,3 +1,2 @@
 print("jasdkjasdbjk")
-print("hi jihoon")
-print("this is avril")
+print("test")
